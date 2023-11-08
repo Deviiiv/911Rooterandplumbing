@@ -1,0 +1,29 @@
+ 
+*[_ngcontent-ng-c203537542] {
+    padding: 0;
+    margin: 20px;
+    color: rgba(11, 67, 146, 1);
+}
+.text{
+
+color: #fff;
+    background-color:rgba(216, 1, 8, 1);
+    text-decoration-line:inherit;
+    font-size :10px;
+    font-weight: bold;
+    border-color:rgba(216, 1, 8, 1) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
+
+
+.paragraph{
+font-size: 10px;
+font-weight: bold;
+font-variant-ligatures:common-ligatures;
+}
+
+
+
+
